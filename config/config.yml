@@ -1,0 +1,5 @@
+httpserver:
+  Port: 8081
+
+tikv:
+  TiKVAddr: 127.0.0.1:2379
